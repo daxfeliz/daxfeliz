@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Searching For Magnetic Activity cycles of M-dwarfs from combinations of ground and space-based photometric flare detections**
 
-- 📫 How to reach me **dfeliz@flatironinstitute.org** or visit my website at [https://daxfeliz.github.io/](https://daxfeliz.github.io/)
+- 📫 How to reach me **dfeliz@flatironinstitute.org** or visit my website at [daxfeliz.github.io/](https://daxfeliz.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
